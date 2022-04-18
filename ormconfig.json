@@ -1,0 +1,11 @@
+{
+    "type": "sqljs",
+    "entities":[
+        "dist/aluno/aluno.js",
+        "dist/professor/professor.js",
+        "dist/turma/turma.js",
+        "dist/disciplina/disciplina.js",
+        "dist/semestre/semestre.js"
+    ],
+    "synchcronize": true
+}
